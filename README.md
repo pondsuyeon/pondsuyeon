@@ -1,8 +1,10 @@
-### Hi, Hello~!
+##### 👋 Hi, Hello!
+### I am a Back-end Engineer !
+
 - 😎 I’m currently learning Spring, Java, Algorithm.
 - 🖥 I majored in Computer Engineering.
 
-### Experience
+#### Experience
 - 🍅 Seoul National University Of Science and Technology ( 2017.03 ~ 2021.08 )
 - 👩‍💻 Samsung Software Academy For Youth 6th ( 2021.07 ~ )
 
